@@ -17,9 +17,9 @@ Este programa simula um sistema simples de Ponto de Venda (PDV). Ele recebe o va
 
 ## Como rodar
 
-No terminal, entre na pasta `nivel_1` e execute:
+No terminal execute:
 
-python pdv.py
+'python pdv.py'
 
 ## Tabela de exemplos
 
