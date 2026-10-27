@@ -19,7 +19,7 @@ Este programa simula um sistema simples de Ponto de Venda (PDV). Ele recebe o va
 
 No terminal execute:
 
-'python pdv.py'
+`python pdv.py`
 
 ## Tabela de exemplos
 
